@@ -10,9 +10,20 @@ EE JS is a web game developed using node.js
 * Uses mobgoDB as the database (must run a mongodb server to use).
 * This game also has multiplayer support.
 
+
+
+* [Features](#features)
+* [Ingame Examples](#ingame-examples)
+* [Multiplayer](#multiplayer)
+* [Ingame Multiplayer Examples](#ingame-multiplayer-examples)
+* [Scaling](#scaling)
+
+
 ## Features
 
 ## Ingame Examples
+
+![gameplay](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/single-gameplay.gif)
 
 ## Multiplayer
 
@@ -39,3 +50,10 @@ For example, if I wanted to place a block:
 ![keydoors](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-keydoors.gif)
 
 ## Scaling
+
+So what is scaling?
+* Scaling is basically the technology to scale the whole gameplay, while we zoom in/out (with our browser).
+* This technology allows us to capture more (or less) of the in-game screen, in exchange for a comfortable playable size.
+
+Example:
+![scaling](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/single-scaling.gif)
