@@ -45,9 +45,7 @@ For example, if I wanted to place a block:
 ----
 ![blocks](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-blocks.gif)
 ----
-![arrows](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-arrows.gif)
-----
-![keydoors](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-keydoors.gif)
+![arrows](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-arrows.gif) | ![keydoors](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-keydoors.gif)
 
 ## Scaling
 
