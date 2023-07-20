@@ -1,11 +1,15 @@
 [EE-JS](https://github.com/TheLuciferX/EE-JS)
 ===============
 
-This is a game made in a node.js web application.\n
+This is a game made in a node.js web application.
+
 The game is a sandbox game, a remake of the Flash (AS3) game Everybody Edits.\n
+
 All in-game graphic assets were taken from the game Everybody Edits.
 
+
 Uses mobgoDB as the database (must run a mongodb server to use).\n
+
 This game also has multiplayer support.
 
 How does multiplayer work:
