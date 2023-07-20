@@ -22,3 +22,12 @@ Placing a block:
 2. Server receives message "b" with parameters x, y (locations), and block ID.
 3. Server updates it's block list, and changes the block in x,y to the new block ID.
 4. Server then sends message "b" back to all connected clients, to update the block visually.
+
+Ingame Examples:
+![movement](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-movement.gif)
+----
+![blocks](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-blocks.gif)
+----
+![arrows](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-arrows.gif)
+----
+![keydoors](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-keydoors.gif)
