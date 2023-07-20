@@ -1,0 +1,4 @@
+key doesn't need overlay
+door closed uses solid overlay
+gate closed uses solid overlay
+door opened doesn't need overlay

@@ -1,0 +1,4 @@
+key
+door opened
+gate opened
+sign down

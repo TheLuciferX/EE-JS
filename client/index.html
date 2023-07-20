@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="//db.onlinewebfonts.com/c/3a1c8f2be3d32fd226d4cc335efee18e?family=TahomaW01-SC" rel="stylesheet" type="text/css"/>
+        <link href="client/css/game.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div class="wrapper">
+            <div id="game">
+                <div id="world">
+                    <canvas id="fgs" width="400" height="400"></canvas>
+                </div>
+                <input id="chat" class="chat" type="text">
+
+                <div id="blockpicker" class="blockpicker">
+                    <ul class="tab-links">
+                        <li class="active"><p>blocks</p></li>
+                        <li><p>action</p></li>
+                        <li><p>decoration</p></li>
+                        <li><p>background</p></li>
+                        <li><input id="search" placeholder="search"></li>
+                    </ul>
+
+                    <div class="tab-content">
+                        <div id="blocks" class="tab" style="display: block;"></div>
+                        <div id="action" class="tab"></div>
+                        <div id="decoration" class="tab"></div>
+                        <div id="background" class="tab"></div>
+                    </div>
+                </div>
+
+                <div class="quickpicker_border">
+                    <img class="quickpicker quickpicker_selected"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <img class="quickpicker"></button>
+                    <p id="showmore" class="quickpicker_showmore">more</p>
+                </div>
+
+                <div id="chatbar" class="chatbar">
+                    <h2 class="chatbar_title">random title</h2>
+                    <p class="chatbar_owner">by: luciferx</p>
+                    <div class="chatbat_online"></div>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+        <script src="client/js/game1.js" type="module"></script>
+    </body>
+</html>
