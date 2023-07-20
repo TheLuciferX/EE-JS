@@ -2,24 +2,18 @@
 ===============
 EE JS is a web game developed using node.js
 
-* This is a game made in a node.js web application.
-* The game is a sandbox game, a remake of the Flash (AS3) game Everybody Edits.
-* All in-game graphic assets were taken from the game Everybody Edits.
-
-
-* Uses mobgoDB as the database (must run a mongodb server to use).
-* This game also has multiplayer support.
-
-
-
-* [Features](#features)
+* [About & Features](#about--features)
 * [Ingame Examples](#ingame-examples)
 * [Multiplayer](#multiplayer)
 * [Ingame Multiplayer Examples](#ingame-multiplayer-examples)
 * [Scaling](#scaling)
 
-
-## Features
+## About & Features
+General information:
+* EE-JS is a sandbox game developed in JavaScript, as a remake of the Flash (AS3) game Everybody Edits.
+* All in-game graphic assets have been taken from the game Everybody Edits, and do not belong to me.
+* Server is coded in Node.JS and uses a MongoDB database (for future uses).
+* Contains multiplayer support.
 
 ## Ingame Examples
 
@@ -45,7 +39,9 @@ For example, if I wanted to place a block:
 ----
 ![blocks](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-blocks.gif)
 ----
-![arrows](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-arrows.gif) | ![keydoors](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-keydoors.gif)
+![arrows](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-arrows.gif)
+----
+![keydoors](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/multi-keydoors.gif)
 
 ## Scaling
 
