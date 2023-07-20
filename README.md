@@ -3,7 +3,7 @@
 EE JS is a web game developed using node.js
 
 * [About & Features](#about--features)
-* [Ingame Examples](#ingame-examples)
+* [Ingame Showcase](#ingame-showcase)
 * [Multiplayer](#multiplayer)
 * [Ingame Multiplayer Examples](#ingame-multiplayer-examples)
 * [Scaling](#scaling)
@@ -15,7 +15,7 @@ General information:
 * Server is coded in Node.JS and uses a MongoDB database (for future uses).
 * Contains multiplayer support.
 
-## Ingame Examples
+## Ingame Showcase
 
 ![gameplay](https://github.com/TheLuciferX/EE-JS/blob/main/gifs/single-gameplay.gif)
 
